@@ -1,0 +1,6 @@
+[submodule "mausoleum-client"]
+	path = mausoleum-client
+	url = git@github.com:mausoleum/mausoleum-client.git
+[submodule "mausoleum-server"]
+	path = mausoleum-server
+	url = git@github.com:mausoleum/mausoleum-server.git
